@@ -1,0 +1,2 @@
+# MyCode
+Code cua toi !!
